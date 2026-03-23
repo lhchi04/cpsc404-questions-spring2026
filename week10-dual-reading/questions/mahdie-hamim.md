@@ -8,10 +8,6 @@ Chapter 7 discusses how going over your manager’s head in a corporate hierarch
 
 At the same time, Chapter 4 of Producing Open Source Software describes a system where authority comes from contribution and reputation, and where decisions are often made through open discussion rather than strict hierarchy.
 
-In situations where a manager is ineffective or blocking progress, Chapter 7 would suggest working within the chain of command, but in open source, the equivalent response might be to escalate publicly or even fork the project. Is there a true equivalent of “going over your boss’s head” in open source, or does transparency fundamentally change what counts as inappropriate escalation?
-
-Also, how realistic is “forkability” as a check on power? In theory, anyone can fork, but in practice, most contributors don’t have the time, reputation, or community support to do so. Does this make open source governance more similar to corporate hierarchy than it appears?
-
-And for developers working in both environments (like interns contributing to open source while reporting to a manager), how should they navigate conflicts when the expectations of their manager and the open source community don’t align?
+Given these differences, when someone in charge is ineffective or blocking progress, how is escalating the issue different in these two systems like going over your manager’s head in a company versus speaking up publicly or forking a project in open source? Does open source actually make it easier to deal with bad leadership, or do similar power constraints still exist in practice?
 
 ---
