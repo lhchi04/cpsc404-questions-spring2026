@@ -115,7 +115,7 @@
                 studentList.style.display = 'none';
                 return;
             }
-            studentList.style.display = '';
+            studentList.style.display = 'block';
             studentCount.textContent = `(${pool.total})`;
             const sorted = [...pool.all].sort((a, b) => a.author.localeCompare(b.author));
             for (const q of sorted) {
